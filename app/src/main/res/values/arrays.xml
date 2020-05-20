@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="games">
+        <item>爬山</item>
+        <item>游戏</item>
+        <item>睡觉</item>
+        <item>唱歌</item>
+        <item>电影</item>
+        <item>逛街</item>
+        <item>吃饭</item>
+        <item>旅游</item>
+        <item>单车</item>
+        <item>野炊</item>
+        <item>打球</item>
+        <item>看书</item>
+    </string-array>
+</resources>
